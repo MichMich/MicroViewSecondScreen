@@ -1,7 +1,7 @@
 MicroViewSecondScreen
 =====================
 
-Use your MicroView as you Computer's Second Screen!
+Use your MicroView as your Computer's Second Screen!
 
 More info about this project can be found [here](http://michaelteeuw.nl/post/102115021017/a-micro-second-screen).
 
